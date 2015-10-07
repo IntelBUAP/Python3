@@ -2,7 +2,7 @@
 
 print ('{} {}'.format('uno', 'dos'))
 print ('{1} {0}'.format('uno', 'dos'))
-print ('{:>5}'.format('Hola mundo'))
+print ('{:>15}'.format('Hola mundo'))
 print ('{:15}'.format('Hola mundo'))
 print ('{:*<15}'.format('Hola mundo'))
 print ('{:^16}'.format('Hola mundo'))
