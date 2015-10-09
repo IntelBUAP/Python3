@@ -9,4 +9,4 @@ while intentos < 15 and ( nombre != "Scrap" or nombre != "scrap" ):
 		print ("Salio scrap [ =P ]")
 		continue
 	intentos += 1
-	print ("El numero de intentos sin que salga scrap < %d >" % intentos)
+	print ("El numero de intentos sin que salga scrap <{}>".format(intentos))
