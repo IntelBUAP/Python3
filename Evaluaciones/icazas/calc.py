@@ -1,3 +1,9 @@
+#yolanda alvarez
+#pedro ambrosio
+#ignacio acevedo
+#raul arias
+#monica canizo
+
 import os
 import math
 
